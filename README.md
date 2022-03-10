@@ -1,1 +1,2 @@
-# aula21Aluno
+# collisionAlgorithm
+Algorithm to detect collision between two objects
